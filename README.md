@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head> Hatsune Miku is <i>so</i> cool </head>
+<h1> Imagine a world where Hatsune Miku <i>never</i> existed </h1>
   
 <p>
-  Yay
+  oh no
 </p>
-<h1> yipee</h1>
-
-
+<p> cries</p>
 
 
   
