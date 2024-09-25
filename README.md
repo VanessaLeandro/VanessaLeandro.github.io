@@ -13,8 +13,5 @@
 </p>
 <p> </p>
 
-<style>
-  body {background:blue;}
-</style>
   
 </html>
