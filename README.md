@@ -1,12 +1,20 @@
 <html>
-<h1> A Guide to ROBLOX's <i><b>Pressure</b></i> Entities </h1>
-<h2> <mark><sub><small>Disclaimer: Entities are sort of horrifying</small></sub></mark> </h2>
+
   
+  <h1> A Guide to ROBLOX's <i><b>"Pressure"</b></i> Entities </h1>
+<p> 
+  <sub> 
+    Disclaimer: Idk add something here later vanessa
+  </sub>
+
 <p>
-  oh no
+  
+<h1> Pressure is a first-person, horror & reaction based ROBLOX game </h1>
 </p>
-<p> cries</p>
+<p> </p>
 
-
+<style>
+  body {background:blue;}
+</style>
   
 </html>
