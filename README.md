@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <h1> Imagine a world where Hatsune Miku <i>never</i> existed </h1>
   
