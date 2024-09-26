@@ -1,13 +1,13 @@
 <html>
 
-  <h1> A Guide to ROBLOX's <i><b>"Pressure"</b></i> Entities </h1>
+  <h1 style="text-align:center;">  A Guide to ROBLOX's <i><b>"Pressure"</b></i> Entities </h1>
   
   <sub style="text-align:center;">
   <mark>  Disclaimer: Imagery of entities are pretty horrifying, some level of game knowledge is reccomended. </mark>
   </sub>
 
   
-<p style="text-align:center;">
+<p>
   
   Pressure is a multiplayer first-person, horror & reaction-based ROBLOX game where you have to hide and fight monsters while running through a series of doors.
   The objective of the game is to obtain a crystal while avoiding monsters and hazards throughout "UrbanShade's (The organization forcing you in this mission) Hadal Blacksite."
