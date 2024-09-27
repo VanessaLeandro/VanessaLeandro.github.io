@@ -20,7 +20,7 @@
   
 </p>
 
-<p style="text-align:center;" <b> PANDEMONIUM </b> </p>
+<p PANDEMONIUM </p>
 
 <img src="https://static.wikia.nocookie.net/pressure/images/6/69/Pandepande.webp/revision/latest?cb=20240831110835" alt="Pandemonium">
 
