@@ -20,8 +20,8 @@
   
 </p>
 
-<p> </p>
-<img>
-<img src="" alt="Angler" width="500" height="333">
+<p style="text-align:center;" <b> PANDEMONIUM </b> </p>
+
+<img src="https://static.wikia.nocookie.net/pressure/images/6/69/Pandepande.webp/revision/latest?cb=20240831110835" alt="Pandemonium">
 
 <body style="background-color:#cac9d1;">
